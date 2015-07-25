@@ -33,8 +33,7 @@ Put the following in the file:
 [date]
 
 I hereby agree to the terms of the Contributors License
-Agreement, version 1.0, with MD5 checksum
-.
+Agreement, version 1.0, with MD5 checksum 107679e9eff24e29c5a87bb154710a26edb0829d.
 
 I furthermore declare that I am authorised and able to make this
 agreement and sign this declaration.
@@ -51,11 +50,11 @@ Replace the bracketed text as follows:
 * `[your name]` with your name.
 * `[your github userid]` with your GitHub userid.
 
-You can confirm the MD5 checksum of the CLA by running the md5 program over `cla-1.0.md`:
+You can confirm the SHA-1 checksum of the CLA by running the sha1sum program over `cla-1.0.md`:
 
 ```
-md5 cla-1.0.md
-MD5 (cla-1.0.md) = 
+sha1sum cla-1.0.md
+107679e9eff24e29c5a87bb154710a26edb0829d  cla-1.0.md
 ```
 
 If the output is different from above, do not sign the CLA and let us know.
