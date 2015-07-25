@@ -1,8 +1,8 @@
 # Open Source at Nottingham Hackspace
 
-We have a number of projects that are released under one or more open source licences.  To contribute to these projects, we ask that you sign the Contributors License Agreement (CLA).
+We have a number of projects that are released under one or more open source licenses.  To contribute to these projects, we ask that you sign the Contributors License Agreement (CLA).
 
-We do this to protect the open source nature of the projects.  If we decide to move a project from one open source licence to another in the future, it would be hard without these in place.  It also means that you are certifying that all the contributions you are making are yours to make - you're not copying and pasting large chunks of commercial code into our projects.
+We do this to protect the open source nature of the projects.  If we decide to move a project from one open source license to another in the future, it would be hard without these in place.  It also means that you are certifying that all the contributions you are making are yours to make - you're not copying and pasting large chunks of commercial code into our projects.
 
 Signing the CLA is easy:
 

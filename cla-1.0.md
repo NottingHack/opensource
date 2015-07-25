@@ -16,7 +16,7 @@ The Agreement is written in plain English to be easily understood by You and all
 
 2. "You" / "Your" &mdash; The individual signing this Agreement.
 
-3. "Nottingham Hackspace Limited" &mdash; The company which manages the Projects. The company's website is at <http://medium.com/>.
+3. "Nottingham Hackspace Limited" &mdash; The company which manages the Projects. The company's website is at <http://www.nottinghack.org.uk/>.
 
 4. "Project" &mdash; Open source projects being managed by Nottingham Hackspace Limited. The Projects may all be found at <https://github.com/Nottinghack>
 
@@ -33,7 +33,9 @@ When You provide a Contribution to a Project:
 
 * You assert that the Contribution was authored by You.
 
-* You license that Contribution under the terms of the license of that Project. More specifically, You grant a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works. to the Users, the Contributors, and Nottingham Hackspace Limited.
+* You license that Contribution under the terms of the license of that Project. More specifically, You grant a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense (if applicable), and distribute Your Contributions and such derivative works. to the Users, the Contributors, and Nottingham Hackspace Limited.
+
+* Additionally, you grant a license to Nottingham Hackspace Limited to change the open source license governing your Contributions
 
 * You assert that You have the authority and are able to license Your Contribution under the license of that Project.
 
