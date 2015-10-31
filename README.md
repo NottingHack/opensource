@@ -63,4 +63,4 @@ That's it!
 
 ## Credits
 
-Thank you to [Medium](https://github.com/Medium) and (Apache)[http://www.apache.org/] - we used a lot of their work in building this.
+Thank you to [Medium](https://github.com/Medium) and [Apache](http://www.apache.org) - we used a lot of their work in building this.
